@@ -16,7 +16,7 @@ const testimonials = [
     content:
       "A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications. These websites typically provide templates for creating a resume.",
     avatar:
-      "https://wallpapers.com/images/hd/naruto-profile-pictures-392d311ouj6b7ggq.jpg",
+      "https://drive.google.com/file/d/1g4yrinWYNiecLnbAhbxqFD_HUkkioBwY/view?usp=drive_link",
   },
 ];
 

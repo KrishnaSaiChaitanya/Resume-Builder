@@ -1,12 +1,10 @@
-/* #theme1 {
-  width: 90%;
-  margin: auto;
-} */
-
+#theme1 {
+  padding: 47px 60px;
+}
 
 /* Skills Set  */
 .skill-badge {
-  background-color: #D2E4E1 !important;
+  background-color: #d2e4e1 !important;
   color: black !important;
   margin: 5px;
 }
@@ -23,7 +21,6 @@
   margin: 0rem 5rem;
   padding-top: 10px;
 }
-
 
 /* Utility  */
 .subBox {

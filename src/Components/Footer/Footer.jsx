@@ -52,7 +52,7 @@ export default function Footer() {
         align={{ base: "center", md: "center" }}
       >
         <Image style={{ height: "44px" }} src={logo} alt="logo" />
-        <Text>© 2023 Resume Builder</Text>
+        <Text>© 2024 Resume Builder</Text>
         <Text>Made by : T K S Chaitanya</Text>
       </Container>
     </Box>
